@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file."
+title: "beam-structural-analyzer-pyqt: Structural Analysis and Beam Deflection Solver with PyQt GUI"
+authors:
+  - family-names: "Pepe Sánchez"
+    given-names: "Roberto Andrés"
+    affiliation: "Universidad Técnica de Ambato"
+    email: "andrespepe014@gmail.com"
+version: "1.0.0"
+date-released: "2026-10-14"
+license: "MIT"
+repository-code: "https://github.com/RoPP17/beam-structural-analyzer-pyqt"
+keywords:
+  - "structural-analysis"
+  - "beam-mechanics"
+  - "finite-element-analysis"
+  - "solid-mechanics"
+  - "pyqt"
+  - "python"
