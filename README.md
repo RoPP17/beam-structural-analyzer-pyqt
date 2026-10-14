@@ -1,4 +1,4 @@
-# 🌉 BeamAnalyzer — Calculadora y Suite de Análisis Estructural de Vigas
+﻿# 🌉 BeamAnalyzer — Calculadora y Suite de Análisis Estructural de Vigas
 
 [![Python](https://img.shields.io/badge/Python-3.9%20%7C%203.10%20%7C%203.11%20%7C%203.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![PyQt5](https://img.shields.io/badge/GUI-PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)](https://riverbankcomputing.com/software/pyqt/)
@@ -96,3 +96,23 @@ python main.py
 ## 📜 Licencia
 
 Distribuido bajo la Licencia [MIT](LICENSE).
+
+---
+
+## 📚 Citación Académica (Citation)
+
+Si utilizas este software o código en investigaciones, docencia o proyectos de ingeniería, por favor cítalo como:
+
+``bibtex
+@software{pepe_sanchez_2026_beam_analyzer,
+  author       = {Pepe Sánchez, Roberto Andrés},
+  title        = {beam-structural-analyzer-pyqt: Structural Analysis and Beam Deflection Solver with PyQt GUI},
+  month        = oct,
+  year         = 2026,
+  publisher    = {Zenodo},
+  version      = {v1.0.0},
+  url          = {https://github.com/RoPP17/beam-structural-analyzer-pyqt}
+}
+``
+
+También puedes citarlo automáticamente usando el botón **"Cite this repository"** en la barra lateral de GitHub o leyendo directamente el archivo [CITATION.cff](./CITATION.cff).

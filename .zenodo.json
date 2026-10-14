@@ -1,0 +1,21 @@
+{
+  "title": "beam-structural-analyzer-pyqt: Structural Analysis and Beam Deflection Solver with PyQt GUI",
+  "upload_type": "software",
+  "description": "An interactive finite element and mechanics of materials solver for static and indeterminate beam structural analysis. Features shear and bending moment diagram generation, deflection curvature calculation, and a modular PyQt graphical user interface.",
+  "creators": [
+    {
+      "name": "Pepe Sánchez, Roberto Andrés",
+      "affiliation": "Universidad Técnica de Ambato"
+    }
+  ],
+  "access_right": "open",
+  "license": "MIT",
+  "keywords": [
+    "structural-analysis",
+    "beam-mechanics",
+    "finite-element-analysis",
+    "solid-mechanics",
+    "pyqt",
+    "python"
+  ]
+}
